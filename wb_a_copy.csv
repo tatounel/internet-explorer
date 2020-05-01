@@ -111,13 +111,13 @@ Costa Rica,2010,107.5018979
 Costa Rica,2011,111.0248054
 Costa Rica,2012,94.8953186
 Costa Rica,2013,79.02029611
-Czech Republic,2007,104.9633997
-Czech Republic,2008,151.0890691
-Czech Republic,2009,186.3282196
-Czech Republic,2010,319.7316126
-Czech Republic,2011,389.0020739
-Czech Republic,2012,518.8004512
-Czech Republic,2013,563.514521
+Czechia,2007,104.9633997
+Czechia,2008,151.0890691
+Czechia,2009,186.3282196
+Czechia,2010,319.7316126
+Czechia,2011,389.0020739
+Czechia,2012,518.8004512
+Czechia,2013,563.514521
 Denmark,2007,805.0993163
 Denmark,2008,1037.202967
 Denmark,2009,1167.46136
@@ -426,13 +426,13 @@ Republic Of Korea,2010,1128.083123
 Republic Of Korea,2011,2496.110844
 Republic Of Korea,2012,2751.535609
 Republic Of Korea,2013,1994.895665
-Russian Federation,2007,4.461178853
-Russian Federation,2008,7.326192648
-Russian Federation,2009,10.53490215
-Russian Federation,2010,20.25486819
-Russian Federation,2011,26.93127684
-Russian Federation,2012,39.04231097
-Russian Federation,2013,51.13593803
+Russia,2007,4.461178853
+Russia,2008,7.326192648
+Russia,2009,10.53490215
+Russia,2010,20.25486819
+Russia,2011,26.93127684
+Russia,2012,39.04231097
+Russia,2013,51.13593803
 Rwanda,2007,0.293457052
 Rwanda,2008,0.293457052
 Rwanda,2009,0.569818536
@@ -538,27 +538,27 @@ United Arab Emirates,2010,135.6388061
 United Arab Emirates,2011,159.4380609
 United Arab Emirates,2012,183.6915173
 United Arab Emirates,2013,194.1980471
-United Kingdom Of Great Britain And Northern Ireland,2007,750.3123285
-United Kingdom Of Great Britain And Northern Ireland,2008,898.9920963
-United Kingdom Of Great Britain And Northern Ireland,2009,1141.570537
-United Kingdom Of Great Britain And Northern Ireland,2010,1384.148979
-United Kingdom Of Great Britain And Northern Ireland,2011,1576.979233
-United Kingdom Of Great Britain And Northern Ireland,2012,1467.414897
-United Kingdom Of Great Britain And Northern Ireland,2013,1193.455209
-United Republic Of Tanzania,2007,0.072957743
-United Republic Of Tanzania,2008,0.188885103
-United Republic Of Tanzania,2009,0.229148873
-United Republic Of Tanzania,2010,0.400237207
-United Republic Of Tanzania,2011,0.496175062
-United Republic Of Tanzania,2012,0.753404336
-United Republic Of Tanzania,2013,1.076073831
-United States Of America,2007,1061.762502
-United States Of America,2008,1174.78819
-United States Of America,2009,1235.078761
-United States Of America,2010,1445.050121
-United States Of America,2011,1563.210065
-United States Of America,2012,1474.265038
-United States Of America,2013,1305.970696
+United Kingdom,2007,750.3123285
+United Kingdom,2008,898.9920963
+United Kingdom,2009,1141.570537
+United Kingdom,2010,1384.148979
+United Kingdom,2011,1576.979233
+United Kingdom,2012,1467.414897
+United Kingdom,2013,1193.455209
+United Republic of Tanzania,2007,0.072957743
+United Republic of Tanzania,2008,0.188885103
+United Republic of Tanzania,2009,0.229148873
+United Republic of Tanzania,2010,0.400237207
+United Republic of Tanzania,2011,0.496175062
+United Republic of Tanzania,2012,0.753404336
+United Republic of Tanzania,2013,1.076073831
+United States of America,2007,1061.762502
+United States of America,2008,1174.78819
+United States of America,2009,1235.078761
+United States of America,2010,1445.050121
+United States of America,2011,1563.210065
+United States of America,2012,1474.265038
+United States of America,2013,1305.970696
 Uruguay,2007,37.44326596
 Uruguay,2008,42.40200806
 Uruguay,2009,35.41212422
@@ -566,20 +566,20 @@ Uruguay,2010,44.78078471
 Uruguay,2011,70.04610038
 Uruguay,2012,80.40637914
 Uruguay,2013,75.13805149
-Venezuela (Bolivarian Republic Of),2007,6.183120825
-Venezuela (Bolivarian Republic Of),2008,6.721120306
-Venezuela (Bolivarian Republic Of),2009,7.381999955
-Venezuela (Bolivarian Republic Of),2010,7.368313011
-Venezuela (Bolivarian Republic Of),2011,7.999830512
-Venezuela (Bolivarian Republic Of),2012,10.68276845
-Venezuela (Bolivarian Republic Of),2013,11.08362788
-Viet Nam,2007,0.605548966
-Viet Nam,2008,1.127789075
-Viet Nam,2009,1.883173496
-Viet Nam,2010,3.128864349
-Viet Nam,2011,4.678961749
-Viet Nam,2012,6.702495919
-Viet Nam,2013,8.159725512
+Venezuela,2007,6.183120825
+Venezuela,2008,6.721120306
+Venezuela,2009,7.381999955
+Venezuela,2010,7.368313011
+Venezuela,2011,7.999830512
+Venezuela,2012,10.68276845
+Venezuela,2013,11.08362788
+Vietnam,2007,0.605548966
+Vietnam,2008,1.127789075
+Vietnam,2009,1.883173496
+Vietnam,2010,3.128864349
+Vietnam,2011,4.678961749
+Vietnam,2012,6.702495919
+Vietnam,2013,8.159725512
 Yemen,2007,0.094419068
 Yemen,2008,0.184301468
 Yemen,2009,0.224925072
