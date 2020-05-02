@@ -213,7 +213,7 @@ San Marino,SMR,2010,960.6455538
 Somalia,SOM,2010,0
 Serbia,SRB,2010,7.405948568
 Sub-Saharan Africa (excluding high income),SSA,2010,3.670674761
-South Sudan,SSD,2010,0
+South Sudan,SDS,2010,0
 Sub-Saharan Africa,SSF,2010,3.677317726
 Small states,SST,2010,99.62754489
 Sao Tome and Principe,STP,2010,0
@@ -239,6 +239,7 @@ Middle East & North Africa (IDA & IBRD countries),TMN,2010,1.881506645
 Tonga,TON,2010,9.616679168
 South Asia (IDA & IBRD),TSA,2010,1.413845491
 Sub-Saharan Africa (IDA & IBRD countries),TSS,2010,3.677317726
+Taiwan,TWN,2010,471.1
 Trinidad and Tobago,TTO,2010,44.42279356
 Tunisia,TUN,2010,6.205781456
 Turkey,TUR,2010,86.34397993
@@ -477,7 +478,7 @@ San Marino,SMR,2011,1168.630176
 Somalia,SOM,2011,0
 Serbia,SRB,2011,25.98803251
 Sub-Saharan Africa (excluding high income),SSA,2011,5.674017357
-South Sudan,SSD,2011,0
+South Sudan,SDS,2011,0
 Sub-Saharan Africa,SSF,2011,5.689411038
 Small states,SST,2011,135.3581728
 Sao Tome and Principe,STP,2011,5.419349245
@@ -503,6 +504,7 @@ Middle East & North Africa (IDA & IBRD countries),TMN,2011,2.630386081
 Tonga,TON,2011,9.656051447
 South Asia (IDA & IBRD),TSA,2011,1.944588073
 Sub-Saharan Africa (IDA & IBRD countries),TSS,2011,5.689411038
+Taiwan,TWN,2011,471.1
 Trinidad and Tobago,TTO,2011,61.36906909
 Tunisia,TUN,2011,7.633673063
 Turkey,TUR,2011,118.3080471
@@ -741,7 +743,7 @@ San Marino,SMR,2012,1557.389815
 Somalia,SOM,2012,0.235932338
 Serbia,SRB,2012,53.06235786
 Sub-Saharan Africa (excluding high income),SSA,2012,9.983921309
-South Sudan,SSD,2012,0
+South Sudan,SDS,2012,0
 Sub-Saharan Africa,SSF,2012,10.00520365
 Small states,SST,2012,234.7153636
 Sao Tome and Principe,STP,2012,5.307742935
@@ -767,6 +769,7 @@ Middle East & North Africa (IDA & IBRD countries),TMN,2012,4.348667402
 Tonga,TON,2012,29.20077479
 South Asia (IDA & IBRD),TSA,2012,3.790949298
 Sub-Saharan Africa (IDA & IBRD countries),TSS,2012,10.00520365
+Taiwan,TWN,2012,492.7
 Trinidad and Tobago,TTO,2012,105.5905748
 Tunisia,TUN,2012,10.78639056
 Turkey,TUR,2012,224.1436568
@@ -1005,7 +1008,7 @@ San Marino,SMR,2013,2119.620311
 Somalia,SOM,2013,0.153095913
 Serbia,SRB,2013,67.55877753
 Sub-Saharan Africa (excluding high income),SSA,2013,12.07803478
-South Sudan,SSD,2013,0
+South Sudan,SDS,2013,0
 Sub-Saharan Africa,SSF,2013,12.11135559
 Small states,SST,2013,250.7388993
 Sao Tome and Principe,STP,2013,10.41194875
@@ -1031,6 +1034,7 @@ Middle East & North Africa (IDA & IBRD countries),TMN,2013,5.685115698
 Tonga,TON,2013,29.47881456
 South Asia (IDA & IBRD),TSA,2013,5.133745743
 Sub-Saharan Africa (IDA & IBRD countries),TSS,2013,12.11135559
+Taiwan,TWN,2013,492.7
 Trinidad and Tobago,TTO,2013,133.7076162
 Tunisia,TUN,2013,15.5209313
 Turkey,TUR,2013,264.0113146
@@ -1269,7 +1273,7 @@ San Marino,SMR,2014,2852.980454
 Somalia,SOM,2014,0.29798319
 Serbia,SRB,2014,93.12010699
 Sub-Saharan Africa (excluding high income),SSA,2014,15.52376969
-South Sudan,SSD,2014,0
+South Sudan,SDS,2014,0
 Sub-Saharan Africa,SSF,2014,15.55997742
 Small states,SST,2014,332.0018025
 Sao Tome and Principe,STP,2014,10.21831428
@@ -1295,6 +1299,7 @@ Middle East & North Africa (IDA & IBRD countries),TMN,2014,7.494399528
 Tonga,TON,2014,39.59298412
 South Asia (IDA & IBRD),TSA,2014,7.040235924
 Sub-Saharan Africa (IDA & IBRD countries),TSS,2014,15.55997742
+Taiwan,TWN,2014,492.7
 Trinidad and Tobago,TTO,2014,173.2310976
 Tunisia,TUN,2014,20.33769431
 Turkey,TUR,2014,298.6718948
@@ -1533,7 +1538,7 @@ San Marino,SMR,2015,3366.193797
 Somalia,SOM,2015,0.50734928
 Serbia,SRB,2015,141.0776557
 Sub-Saharan Africa (excluding high income),SSA,2015,18.9844937
-South Sudan,SSD,2015,0
+South Sudan,SDS,2015,0
 Sub-Saharan Africa,SSF,2015,19.07745311
 Small states,SST,2015,407.6027073
 Sao Tome and Principe,STP,2015,15.04272133
@@ -1559,6 +1564,7 @@ Middle East & North Africa (IDA & IBRD countries),TMN,2015,10.62814009
 Tonga,TON,2015,109.1475576
 South Asia (IDA & IBRD),TSA,2015,9.736957705
 Sub-Saharan Africa (IDA & IBRD countries),TSS,2015,19.07745311
+Taiwan,TWN,2015,492.7
 Trinidad and Tobago,TTO,2015,269.2785961
 Tunisia,TUN,2015,19.14141111
 Turkey,TUR,2015,363.5325971
@@ -1797,7 +1803,7 @@ San Marino,SMR,2016,4656.160458
 Somalia,SOM,2016,0.775433533
 Serbia,SRB,2016,551.6891975
 Sub-Saharan Africa (excluding high income),SSA,2016,65.98593992
-South Sudan,SSD,2016,0.092314691
+South Sudan,SDS,2016,0.092314691
 Sub-Saharan Africa,SSF,2016,68.85475482
 Small states,SST,2016,1065.67226
 Sao Tome and Principe,STP,2016,14.76181807
@@ -1823,6 +1829,7 @@ Middle East & North Africa (IDA & IBRD countries),TMN,2016,30.61413789
 Tonga,TON,2016,138.4315703
 South Asia (IDA & IBRD),TSA,2016,35.83569085
 Sub-Saharan Africa (IDA & IBRD countries),TSS,2016,68.85475482
+Taiwan,TWN,2016,1752.0
 Trinidad and Tobago,TTO,2016,299.0786635
 Tunisia,TUN,2016,92.44559378
 Turkey,TUR,2016,1301.086907
@@ -2061,7 +2068,7 @@ San Marino,SMR,2017,18858.95875
 Somalia,SOM,2017,25.9097208
 Serbia,SRB,2017,5802.567151
 Sub-Saharan Africa (excluding high income),SSA,2017,565.6249262
-South Sudan,SSD,2017,0.183305304
+South Sudan,SDS,2017,0.183305304
 Sub-Saharan Africa,SSF,2017,579.7829576
 Small states,SST,2017,2778.266394
 Sao Tome and Principe,STP,2017,38.63073365
@@ -2087,6 +2094,7 @@ Middle East & North Africa (IDA & IBRD countries),TMN,2017,122.7142915
 Tonga,TON,2017,205.8863899
 South Asia (IDA & IBRD),TSA,2017,118.2026947
 Sub-Saharan Africa (IDA & IBRD countries),TSS,2017,579.7829576
+Taiwan,TWN,2017,1752.0
 Trinidad and Tobago,TTO,2017,290.4473178
 Tunisia,TUN,2017,214.2836589
 Turkey,TUR,2017,3351.870016
@@ -2325,7 +2333,7 @@ San Marino,SMR,2018,59257.06675
 Somalia,SOM,2018,4.330979013
 Serbia,SRB,2018,6900.23208
 Sub-Saharan Africa (excluding high income),SSA,2018,713.7961792
-South Sudan,SSD,2018,1.366628037
+South Sudan,SDS,2018,1.366628037
 Sub-Saharan Africa,SSF,2018,737.6912749
 Small states,SST,2018,3745.774433
 Sao Tome and Principe,STP,2018,56.86449192
@@ -2351,6 +2359,7 @@ Middle East & North Africa (IDA & IBRD countries),TMN,2018,189.1138651
 Tonga,TON,2018,174.4236751
 South Asia (IDA & IBRD),TSA,2018,172.1444762
 Sub-Saharan Africa (IDA & IBRD countries),TSS,2018,737.6912749
+Taiwan,TWN,2018,1752.0
 Trinidad and Tobago,TTO,2018,281.3237036
 Tunisia,TUN,2018,316.2071331
 Turkey,TUR,2018,4335.133582
